@@ -1,0 +1,55 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.navbar{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: white;
+    font-size: 25px;
+    font-style: inherit;
+    text-shadow: 1px 1px 4px black;
+    
+}
+.logo{
+    font-family: 'Sacramento', cursive;
+    font-size: 30px;
+}
+.mainText{
+    font-family: 'Sacramento', cursive;
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 4px 4px black;
+}
+.pressMe{
+    padding: 12px 8px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-style: inherit;
+    font-weight: bolder;
+    border-radius: 15px;
+    background-color: rgb(250, 241, 229);
+}
+#anchorTag{
+    text-decoration: none;
+    color: rgb(247, 54, 54);
+    text-shadow: 1px 1px 2px black;
+}
+.buttonDiv{
+    margin: auto;
+    width: 28%;
+}
+.pressMe:hover{
+    background-color: rgb(206, 241, 135);
+}
+.hoverMe:hover{
+    color: black;
+    text-shadow: 1px 1px 2px #ffff;
+    cursor: pointer;
+}
+span a{
+    text-decoration: none;
+    color: white;
+}
